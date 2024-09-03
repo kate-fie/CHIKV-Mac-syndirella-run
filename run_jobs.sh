@@ -12,8 +12,11 @@ JOB_LIST="$1"
 # Use the second argument as the directory containing the job scripts
 JOB_DIR="$2"
 
-# Log file to store job IDs
-LOG_FILE="/opt/xchem-fragalysis-2/kfieseler/logs/CHIKV_first10_job_ids.log"
+# Extract the base name of the job list file (without the directory path)
+JOB_LIST_BASENAME=$(basename "$JOB_LIST")
+
+# Replace the file extension with .log
+LOG_FILE="/opt/xchem-fragalysis-2/kfieseler/logs/${JOB_LIST_BASENAME%.*}.log"
 
 # Clear the log file if it already exists
 > $LOG_FILE
