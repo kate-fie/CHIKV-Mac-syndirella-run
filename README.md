@@ -8,7 +8,7 @@ Method for running:
 Running the script:
 ```bash
 chmod +x run_jobs.sh
-./run_jobs.sh first_10_jobs.txt
+./run_jobs.sh first_10_jobs.txt /opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/jobs
 ```
 
 Arguments:
