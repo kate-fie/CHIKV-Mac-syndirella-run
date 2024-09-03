@@ -1,8 +1,24 @@
 # CHIKV-Mac-syndirella-run
 
-## Filtering base compounds
+Method for running:
+1. All syndirella input csvs are in [csvs](csvs) (containing 1 scaffold as 1 row).
+2. All job scripts are in [jobs](jobs) to run each csv.
+3. The [run_jobs.sh](run_jobs.sh) script will submit all job scripts in [jobs](jobs) with 30 seconds sleep. 
 
-1. Place with Fragmenstein using RDKit.
-2. Query Manifold for top 5 retrosynthesis routes.
-3. Look over routes by eye.
-4. Choose compounds with most promising routes prioritizing those with multi-step chemistry.  
+Running the script:
+```bash
+chmod +x run_jobs.sh
+./run_jobs.sh first_10_jobs.txt
+```
+
+Arguments:
+```bash
+export INPUT="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/syndirella_input/inputNUM.csv"
+export OUTPUT="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac/"
+export TEMPLATES="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/fragments/templates";
+export HITS="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/fragments/A71EV2A_combined.sdf";
+export METADATA="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/fragments/metadata.csv";
+```
+
+Future headache:
+1. Make a script that will read in all output csvs and combine them into one csv.
