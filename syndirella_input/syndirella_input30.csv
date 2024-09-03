@@ -1,6 +1,2 @@
-30
-CN(C(=O)c1cn[nH]c1)[C@H]1C[C@H](O)NC[C@@H]1NC(=O)c1cscn1
-cx0732a-cx0300a
-cx0300a
-cx0732a
-cx0300a
+,smiles,compound_set,template,hit1,hit2
+30,CN(C(=O)c1cn[nH]c1)[C@H]1C[C@H](O)NC[C@@H]1NC(=O)c1cscn1,cx0732a-cx0300a,cx0300a,cx0732a,cx0300a

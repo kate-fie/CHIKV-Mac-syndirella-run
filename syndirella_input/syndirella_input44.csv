@@ -1,6 +1,2 @@
-44
-NC(=O)c1ccc(C(=O)N[C@@H]2CCC(=O)NC2)c(Cl)c1
-cx1371a-cx0300a
-cx0300a
-cx1371a
-cx0300a
+,smiles,compound_set,template,hit1,hit2
+44,NC(=O)c1ccc(C(=O)N[C@@H]2CCC(=O)NC2)c(Cl)c1,cx1371a-cx0300a,cx0300a,cx1371a,cx0300a

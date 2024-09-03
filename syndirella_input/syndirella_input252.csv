@@ -1,6 +1,2 @@
-252
-Nc1ccc(S(=O)(=O)Nc2ccc3cc(-c4ccn[nH]4)c[nH]c2-3)cc1
-cx0289a-cx0864d
-cx0270a
-cx0289a
-cx0864d
+,smiles,compound_set,template,hit1,hit2
+252,Nc1ccc(S(=O)(=O)Nc2ccc3cc(-c4ccn[nH]4)c[nH]c2-3)cc1,cx0289a-cx0864d,cx0270a,cx0289a,cx0864d

@@ -1,6 +1,2 @@
-316
-COCC(=O)N[C@H]1CC[C@@H](O)[C@@]2(C1)[C@@H](C(N)=O)CNN2CCO
-cx0935a-cx0477a
-cx0270a
-cx0935a
-cx0477a
+,smiles,compound_set,template,hit1,hit2
+316,COCC(=O)N[C@H]1CC[C@@H](O)[C@@]2(C1)[C@@H](C(N)=O)CNN2CCO,cx0935a-cx0477a,cx0270a,cx0935a,cx0477a

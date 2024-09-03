@@ -1,6 +1,2 @@
-34
-CC(=O)Nc1cc(NC(N)=O)ccc1Br
-cx0544a-cx1076a
-cx0300a
-cx0544a
-cx1076a
+,smiles,compound_set,template,hit1,hit2
+34,CC(=O)Nc1cc(NC(N)=O)ccc1Br,cx0544a-cx1076a,cx0300a,cx0544a,cx1076a

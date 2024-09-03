@@ -1,6 +1,2 @@
-37
-NC(=O)Nc1cccc(NC(=O)CCc2nc(Cn3ccccc3=O)no2)c1
-cx0544a-cx0316a
-cx0300a
-cx0544a
-cx0316a
+,smiles,compound_set,template,hit1,hit2
+37,NC(=O)Nc1cccc(NC(=O)CCc2nc(Cn3ccccc3=O)no2)c1,cx0544a-cx0316a,cx0300a,cx0544a,cx0316a

@@ -1,6 +1,2 @@
-66
-C[C@H]1CN[C@H]2[C@H]1[C@@H]1NCCN1[C@@H]1C[C@H](NC(N)=O)CCN12
-cx1298a-cx0544a
-cx0300a
-cx0544a
-cx1298a
+,smiles,compound_set,template,hit1,hit2
+66,C[C@H]1CN[C@H]2[C@H]1[C@@H]1NCCN1[C@@H]1C[C@H](NC(N)=O)CCN12,cx1298a-cx0544a,cx0300a,cx0544a,cx1298a

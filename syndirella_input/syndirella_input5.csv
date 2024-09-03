@@ -1,6 +1,2 @@
-5
-O=S1(=O)CCc2nc(-c3nccs3)nn2C1
-CHIKVMac-DLS-JA006
-cx0281a
-cx1182a
-cx0281a
+,smiles,compound_set,template,hit1,hit2
+5,O=S1(=O)CCc2nc(-c3nccs3)nn2C1,CHIKVMac-DLS-JA006,cx0281a,cx1182a,cx0281a

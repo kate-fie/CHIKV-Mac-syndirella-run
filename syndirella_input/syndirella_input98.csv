@@ -1,6 +1,2 @@
-98
-NC(=O)c1ccc2[nH]n(-c3ccccc3)c(=O)c2c1
-cx0760a-cx0441a
-cx0300a
-cx0760a
-cx0441a
+,smiles,compound_set,template,hit1,hit2
+98,NC(=O)c1ccc2[nH]n(-c3ccccc3)c(=O)c2c1,cx0760a-cx0441a,cx0300a,cx0760a,cx0441a

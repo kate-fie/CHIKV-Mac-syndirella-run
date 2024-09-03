@@ -1,6 +1,2 @@
-256
-NC(=O)c1cc(Cl)cc(NS(=O)(=O)c2ccc(N)cc2)n1
-cx0289a-cx1371b
-cx0270a
-cx0289a
-cx1371b
+,smiles,compound_set,template,hit1,hit2
+256,NC(=O)c1cc(Cl)cc(NS(=O)(=O)c2ccc(N)cc2)n1,cx0289a-cx1371b,cx0270a,cx0289a,cx1371b

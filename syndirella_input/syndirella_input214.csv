@@ -1,6 +1,2 @@
-214
-CNC(=O)c1c2c(cc3c1=NC=C3)=CC(C(=O)N[C@@H]1CCC(=O)NC1)=N2
-cx0399a-cx0300a
-cx0300a
-cx0300a
-cx0399a
+,smiles,compound_set,template,hit1,hit2
+214,CNC(=O)c1c2c(cc3c1=NC=C3)=CC(C(=O)N[C@@H]1CCC(=O)NC1)=N2,cx0399a-cx0300a,cx0300a,cx0300a,cx0399a

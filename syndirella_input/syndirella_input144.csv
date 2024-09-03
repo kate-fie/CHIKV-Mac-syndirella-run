@@ -1,6 +1,2 @@
-144
-NC(=O)N1CCN([C@]2(O)[C@H](O)[C@]23CC[C@]2(CCC[C@@H](F)C2)O3)CC1
-cx0543a-cx0540a
-cx0300a
-cx0540a
-cx0543a
+,smiles,compound_set,template,hit1,hit2
+144,NC(=O)N1CCN([C@]2(O)[C@H](O)[C@]23CC[C@]2(CCC[C@@H](F)C2)O3)CC1,cx0543a-cx0540a,cx0300a,cx0540a,cx0543a

@@ -1,6 +1,2 @@
-175
-NC(=O)[C@@H]1CCN2C3=C(CC=CO3)N[C@@H]2C1
-cx0441a-cx1183a
-cx0300a
-cx0441a
-cx1183a
+,smiles,compound_set,template,hit1,hit2
+175,NC(=O)[C@@H]1CCN2C3=C(CC=CO3)N[C@@H]2C1,cx0441a-cx1183a,cx0300a,cx0441a,cx1183a

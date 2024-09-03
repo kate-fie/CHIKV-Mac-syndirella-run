@@ -1,6 +1,2 @@
-257
-Nc1ccc(S(=O)(=O)N[C@H]2CC3=C(O[CH][CH]O3)[C@@H](CO)N2)cc1
-cx0289a-cx1379b
-cx0270a
-cx0289a
-cx1379b
+,smiles,compound_set,template,hit1,hit2
+257,Nc1ccc(S(=O)(=O)N[C@H]2CC3=C(O[CH][CH]O3)[C@@H](CO)N2)cc1,cx0289a-cx1379b,cx0270a,cx0289a,cx1379b

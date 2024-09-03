@@ -1,6 +1,2 @@
-231
-CN(CC(N)=O)c1snc(CCc2nc(Cn3ccccc3=O)no2)c1C#N
-cx0316a-cx0553a
-cx0300a
-cx0553a
-cx0316a
+,smiles,compound_set,template,hit1,hit2
+231,CN(CC(N)=O)c1snc(CCc2nc(Cn3ccccc3=O)no2)c1C#N,cx0316a-cx0553a,cx0300a,cx0553a,cx0316a

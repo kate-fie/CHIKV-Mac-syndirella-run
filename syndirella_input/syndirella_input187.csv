@@ -1,6 +1,2 @@
-187
-O=C1CC[C@@H](NC(=O)[C@@H]2CS[C@@]3(N2)C2=C(CC[C@H]3O)OCO2)CN1
-cx0300a-cx1305a
-cx0300a
-cx1305a
-cx0300a
+,smiles,compound_set,template,hit1,hit2
+187,O=C1CC[C@@H](NC(=O)[C@@H]2CS[C@@]3(N2)C2=C(CC[C@H]3O)OCO2)CN1,cx0300a-cx1305a,cx0300a,cx1305a,cx0300a

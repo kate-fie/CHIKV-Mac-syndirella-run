@@ -1,6 +1,2 @@
-160
-O=C1CC[C@@H](NC(=O)[C@@H]2CS[C@]3(CCNC(=O)C3)N2)CN1
-cx1076a-cx0300a
-cx0300a
-cx1076a
-cx0300a
+,smiles,compound_set,template,hit1,hit2
+160,O=C1CC[C@@H](NC(=O)[C@@H]2CS[C@]3(CCNC(=O)C3)N2)CN1,cx1076a-cx0300a,cx0300a,cx1076a,cx0300a

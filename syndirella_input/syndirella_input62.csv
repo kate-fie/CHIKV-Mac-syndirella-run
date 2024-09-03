@@ -1,6 +1,2 @@
-62
-NC1=S(CO)c2ccccc2N1
-cx1271a-cx0969a
-cx0300a
-cx1271a
-cx0969a
+,smiles,compound_set,template,hit1,hit2
+62,NC1=S(CO)c2ccccc2N1,cx1271a-cx0969a,cx0300a,cx1271a,cx0969a

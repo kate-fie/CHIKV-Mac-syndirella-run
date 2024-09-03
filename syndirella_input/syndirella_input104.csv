@@ -1,6 +1,2 @@
-104
-COC(=O)[C@@H]1CN(N)C2=C1CCCN2O
-cx1278a-cx1371a
-cx0300a
-cx1371a
-cx1278a
+,smiles,compound_set,template,hit1,hit2
+104,COC(=O)[C@@H]1CN(N)C2=C1CCCN2O,cx1278a-cx1371a,cx0300a,cx1371a,cx1278a

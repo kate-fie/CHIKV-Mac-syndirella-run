@@ -1,6 +1,2 @@
-93
-O=C1C[C@@]2(CNC(=O)c3ccccc3F)c3ccncc3[C@@H](c3cscn3)N[C@H]2CN1
-cx0824a-cx0300a
-cx0300a
-cx0824a
-cx0300a
+,smiles,compound_set,template,hit1,hit2
+93,O=C1C[C@@]2(CNC(=O)c3ccccc3F)c3ccncc3[C@@H](c3cscn3)N[C@H]2CN1,cx0824a-cx0300a,cx0300a,cx0824a,cx0300a

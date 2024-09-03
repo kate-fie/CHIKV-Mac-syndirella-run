@@ -1,6 +1,2 @@
-278
-O=C(Nc1ccccc1)c1c(-c2ccn[nH]2)cc2c(c1O)OCO2
-cx0692a-cx0864b
-cx0270a
-cx0692a
-cx0864b
+,smiles,compound_set,template,hit1,hit2
+278,O=C(Nc1ccccc1)c1c(-c2ccn[nH]2)cc2c(c1O)OCO2,cx0692a-cx0864b,cx0270a,cx0692a,cx0864b

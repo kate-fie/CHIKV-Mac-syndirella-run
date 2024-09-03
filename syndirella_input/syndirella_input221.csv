@@ -1,6 +1,2 @@
-221
-O=C(Nc1cn(CCO)c(=O)cc1Br)c1cscn1
-cx1091a-cx0300a
-cx0300a
-cx0300a
-cx1091a
+,smiles,compound_set,template,hit1,hit2
+221,O=C(Nc1cn(CCO)c(=O)cc1Br)c1cscn1,cx1091a-cx0300a,cx0300a,cx0300a,cx1091a

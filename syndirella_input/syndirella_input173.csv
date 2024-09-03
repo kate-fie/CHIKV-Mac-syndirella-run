@@ -1,6 +1,2 @@
-173
-NC(=O)c1ccc2c(c1)N[C@H]1CC=C[C@@H]1C2=O
-cx0441a-cx0543a
-cx0300a
-cx0543a
-cx0441a
+,smiles,compound_set,template,hit1,hit2
+173,NC(=O)c1ccc2c(c1)N[C@H]1CC=C[C@@H]1C2=O,cx0441a-cx0543a,cx0300a,cx0543a,cx0441a

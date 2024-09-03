@@ -1,6 +1,2 @@
-135
-CN(C(=O)COc1cccc(F)c1)[C@@H]1CCC(=O)N1
-cx0540a-cx1135a
-cx0300a
-cx0540a
-cx1135a
+,smiles,compound_set,template,hit1,hit2
+135,CN(C(=O)COc1cccc(F)c1)[C@@H]1CCC(=O)N1,cx0540a-cx1135a,cx0300a,cx0540a,cx1135a

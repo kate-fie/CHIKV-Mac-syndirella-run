@@ -1,6 +1,2 @@
-120
-NC1=Cc2cccc3cccc(c23)N1
-cx1440a-cx1431a
-cx0300a
-cx1440a
-cx1431a
+,smiles,compound_set,template,hit1,hit2
+120,NC1=Cc2cccc3cccc(c23)N1,cx1440a-cx1431a,cx0300a,cx1440a,cx1431a

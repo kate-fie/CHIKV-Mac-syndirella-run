@@ -1,6 +1,2 @@
-148
-O=C1C[C@]2(Br)CCN(C(=O)c3cccc(F)c3)C[C@@H]2CCN1CCO
-cx0585a-cx1091a
-cx0300a
-cx0585a
-cx1091a
+,smiles,compound_set,template,hit1,hit2
+148,O=C1C[C@]2(Br)CCN(C(=O)c3cccc(F)c3)C[C@@H]2CCN1CCO,cx0585a-cx1091a,cx0300a,cx0585a,cx1091a

@@ -1,6 +1,2 @@
-18
-C[C@H](c1ccc(N)nc1)c1nc(Cn2ccccc2=O)no1
-cx0316a-cx1406a
-cx0300a
-cx1406a
-cx0316a
+,smiles,compound_set,template,hit1,hit2
+18,C[C@H](c1ccc(N)nc1)c1nc(Cn2ccccc2=O)no1,cx0316a-cx1406a,cx0300a,cx1406a,cx0316a

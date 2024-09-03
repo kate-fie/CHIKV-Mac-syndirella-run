@@ -1,6 +1,2 @@
-109
-COC1=NN[C@H]2N[C@@H]3NCCC[C@@H]3[C@H]12
-cx1278a-cx0839a
-cx0300a
-cx1278a
-cx0839a
+,smiles,compound_set,template,hit1,hit2
+109,COC1=NN[C@H]2N[C@@H]3NCCC[C@@H]3[C@H]12,cx1278a-cx0839a,cx0300a,cx1278a,cx0839a

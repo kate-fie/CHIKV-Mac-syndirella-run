@@ -1,6 +1,2 @@
-241
-CC(=O)N1c2cccc(F)c2C(=O)[C@H](C)[C@H]1C
-cx0505a-cx0760a
-cx0300a
-cx0760a
-cx0505a
+,smiles,compound_set,template,hit1,hit2
+241,CC(=O)N1c2cccc(F)c2C(=O)[C@H](C)[C@H]1C,cx0505a-cx0760a,cx0300a,cx0760a,cx0505a

@@ -1,6 +1,2 @@
-133
-CC(C)(C(=O)c1cc2cc(F)ccc2cc1F)c1ccncc1
-cx0540a-cx0824a
-cx0300a
-cx0824a
-cx0540a
+,smiles,compound_set,template,hit1,hit2
+133,CC(C)(C(=O)c1cc2cc(F)ccc2cc1F)c1ccncc1,cx0540a-cx0824a,cx0300a,cx0824a,cx0540a
