@@ -1,6 +1,6 @@
 # CHIKV-Mac-syndirella-run
 
-Method for running:
+Method for running jobs:
 1. All syndirella input csvs are in [csvs](syndirella_input) (containing 1 scaffold as 1 row).
 2. All job scripts are in [jobs](jobs) to run each csv.
 3. The [run_jobs.sh](run_jobs.sh) script will submit all job scripts in [jobs](jobs) with 30 seconds sleep. 
@@ -20,5 +20,6 @@ export HITS="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/fragment
 export METADATA="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/fragments/metadata.csv";
 ```
 
-Future headache:
-1. Make a script that will read in all output csvs and combine them into one csv.
+Final output:
+1. Output csv of all base compounds [sept9_syndirella_final_output.csv](sept9_syndirella_final_output.csv)
+2. Notebook for final collation [sept9_final_output.ipynb](nbs/sept9_final_output.ipynb)
