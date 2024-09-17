@@ -23,3 +23,11 @@ export METADATA="/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/frag
 Final output:
 1. Output csv of all base compounds [sept9_syndirella_final_output.csv](sept9_syndirella_final_output.csv)
 2. Notebook for final collation [sept9_final_output.ipynb](nbs/sept9_final_output.ipynb)
+
+Sept 16 restart:
+
+Running the script:
+```bash
+chmod +x run_jobs.sh
+./run_jobs.sh jobs_sept16_restart.txt /opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/jobs_sept16_restart
+```
