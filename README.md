@@ -1,7 +1,7 @@
 # CHIKV-Mac-syndirella-run
 
 Method for running jobs:
-1. All syndirella input csvs are in [csvs](syndirella_input) (containing 1 scaffold as 1 row).
+1. All syndirella input csvs are in [syndirella_input](syndirella_input) (containing 1 scaffold as 1 row).
 2. All job scripts are in [jobs](jobs) to run each csv.
 3. The [run_jobs.sh](run_jobs.sh) script will submit all job scripts in [jobs](jobs) with 30 seconds sleep. 
 
